@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/docs/assets/self-picture.jpg?raw=true" width="200" height="200"/>
+<img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/self-picture.jpg?raw=true" width="200" height="200"/>
 <p>My name is Shahriar Shahrabi. I am an Iranian technical artist and art director, based in Berlin. </p>
 </div>
 <hr>
