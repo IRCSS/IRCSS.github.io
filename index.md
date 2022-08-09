@@ -1,4 +1,8 @@
+
+<img align="right" src="https://github.com/IRCSS/IRCSS.github.io/blob/main/docs/assets/self-picture.jpg?raw=true" width="200" height="200" />
 My name is Shahriar Shahrabi. I am an Iranian technical artist and art director, based in Berlin. 
+<br/>
+<br/>
 
 During the past few years in the game industry, I have shipped two hit indie titles. The first one was Superflight, a game about free falling in procedurally generated landscapes. The second one is Puzzling Places, a 3D VR jigsaw puzzle game where you put together beautiful hyper realistic models of real life locations around the globe. Puzzling Places was the best rated game on the Oculus Quest store for an entire year. 
 
