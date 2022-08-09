@@ -25,8 +25,9 @@ On the teaching side, beside the technical blog posts on my Medium, I have also 
 
 Finishing on a personal note, I am passionate about cultural heritage, history and everything art related. I love reading, climbing mountains and comics. For any questions you can reach me on: 
 
-Email:       sh.shahrabi@hotmail.com <br/>
+
+Email:       sh.shahrabi @ hotmail.com <br/>
 Twitter:     [@IRCSS](https://twitter.com/IRCSS) <br/>
-Blog:        https://shahriyarshahrabi.medium.com/ <br/>
-Sketchfab:   https://sketchfab.com/shahriyarshahrabi <br/>
-Artstation:  https://www.artstation.com/ircss  <br/>
+Blog:        [https://shahriyarshahrabi.medium.com/](https://shahriyarshahrabi.medium.com/) <br/>
+Sketchfab:   [https://sketchfab.com/shahriyarshahrabi](https://sketchfab.com/shahriyarshahrabi) <br/>
+Artstation:  [https://www.artstation.com/ircss](https://www.artstation.com/ircss)  <br/>
