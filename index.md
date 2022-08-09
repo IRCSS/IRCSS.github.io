@@ -21,7 +21,7 @@ On the technical side, I love linear algebra and mathematics, shader programming
 On the art side, I have done hundreds of paintings, and have created concepts, modeled, textured and animated many dioramas. You can see some of these projects on my [Artstation](https://ircss.artstation.com/) and [Sketchfab](https://sketchfab.com/shahriyarshahrabi).
 
 #### Teaching and Public Speaking
-On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is my linear algebra for tech art talk.   
+On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is [my linear algebra for tech art](https://youtu.be/tBWlzLsfsu8) talk.   
 
 Finishing on a personal note, I am passionate about cultural heritage, history and everything art related. I love reading, climbing mountains and comics. For any questions you can reach me on: 
 
