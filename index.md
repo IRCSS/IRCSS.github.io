@@ -8,7 +8,7 @@
 
 #### Shipped Titles
 During the past few years in the game industry, I have shipped two hit indie titles. The first one was Superflight, a game about free falling in procedurally generated landscapes. 
-<div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/Superflight.gif"/> </div>
+<div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/Superflight.gif" > </img> </div>
 
 The second one is Puzzling Places, a 3D VR jigsaw puzzle game where you put together beautiful hyper realistic models of real life locations around the globe. Puzzling Places was the best rated game on the Oculus Quest store for an entire year. 
 <div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/PuzzlingPlaces.gif"/> </div>
