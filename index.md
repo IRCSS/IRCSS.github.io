@@ -8,11 +8,11 @@
 
 
 #### Shipped Titles
-During the past few years in the game industry, I have shipped two hit indie titles. The first one was Superflight, a game about free falling in procedurally generated landscapes. 
+During the past few years in the game industry, I have shipped two hit indie titles. The first one was [Superflight](https://store.steampowered.com/app/732430/Superflight/), a game about free falling in procedurally generated landscapes. 
 <div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/Superflight.gif?raw=true"/> </div>
 
 
-The second one is Puzzling Places, a 3D VR jigsaw puzzle game where you put together beautiful hyper realistic models of real life locations around the globe. Puzzling Places was the best rated game on the Oculus Quest store for an entire year. 
+The second one is [Puzzling Places](https://www.oculus.com/experiences/quest/3931148300302917/), a 3D VR jigsaw puzzle game where you put together beautiful hyper realistic models of real life locations around the globe. Puzzling Places was the best rated game on the Oculus Quest store for an entire year. 
 <div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/PuzzlingPlaces.gif?raw=true"/> </div>
 
 In Superflight, as it was a team of three, I contributed to every part of the game. From the development (coding, game design, art) to self publishing (company management, marketing and PR). For Puzzling Places, a team of 7, I was the creative lead on the project (game design, art direction and production) and also did development (gameplay and graphic programming, technical art and mobile optimisations). 
