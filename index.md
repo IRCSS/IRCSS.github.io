@@ -35,7 +35,7 @@ On the art side, I have done hundreds of paintings, and have created concepts, m
 #### Teaching and Public Speaking
 On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is [my linear algebra for tech art](https://youtu.be/tBWlzLsfsu8) talk.   
 
-<div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/covers.jpg?raw=true"/> </div>
+<div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/CodeTalks22-0016.jpg?raw=true"  width="600" /> </div>
 
 Finishing on a personal note, I am passionate about cultural heritage, history and everything art related. I love reading, climbing mountains and comics. For any questions you can reach me on: 
 
