@@ -33,7 +33,7 @@ On the art side, I have done hundreds of paintings, and have created concepts, m
 <div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/Paintings.gif?raw=true"/> </div>
 
 #### Teaching and Public Speaking
-On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is [my linear algebra for tech art](https://youtu.be/tBWlzLsfsu8) talk.   
+On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is [my linear algebra for tech art](https://youtu.be/tBWlzLsfsu8) talk or [Unity to Unreal: Codebase Design for Small Team](https://youtu.be/ShVMSoYLJR0).   
 
 <div> <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/CodeTalks22-0016.jpg?raw=true"  width="600" /> </div>
 
