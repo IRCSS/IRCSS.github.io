@@ -36,7 +36,7 @@ On the art side, I have done hundreds of paintings, and have created concepts, m
 On the teaching side, beside the technical blog posts on my Medium, I have also spoken in conferences and universities before. An example of it publicly accessible is [my linear algebra for tech art](https://youtu.be/tBWlzLsfsu8) talk, [Unity to Unreal: Codebase Design for Small Team](https://youtu.be/ShVMSoYLJR0) or [Programming Real- Time procedural audio for games in Unity](https://youtu.be/T2oSs52madY) . Not publicly available are talks like my [GDC Art Direction for VR](https://schedule.gdconf.com/session/future-realities-summit-art-direction-for-vr-designing-for-spatial-perspectives/891678) talk.
 
 <p float="left">
-<img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/GDC_Pic.jpg?raw=true"  width="300" />
+<img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/GDC_Pic.jpg?raw=true"  width="600"  />
 <img src="https://github.com/IRCSS/IRCSS.github.io/blob/main/assets/CodeTalks22-0016.jpg?raw=true"  width="600" />
 </p>
 
