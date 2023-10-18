@@ -49,3 +49,6 @@ Blog:        [https://shahriyarshahrabi.medium.com/](https://shahriyarshahrabi.m
 Github:      [Github page](https://github.com/IRCSS) <br/>
 Sketchfab:   [https://sketchfab.com/shahriyarshahrabi](https://sketchfab.com/shahriyarshahrabi) <br/>
 Artstation:  [https://www.artstation.com/ircss](https://www.artstation.com/ircss)  <br/>
+LinkedIn:    [shahriar-shahrabi](https://www.linkedin.com/in/shahriar-shahrabi/)  <br/>
+Instagram:   [shahriar_shahrabi](https://www.instagram.com/shahriar_shahrabi/) <br/>
+Bluesky:     [ircss](https://bsky.app/profile/ircss.bsky.social)  <br/>
